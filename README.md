@@ -1,4 +1,4 @@
-Real-Time Face Recognition and Attendance System
+**Real-Time Face Recognition and Attendance System** <br/>
 This project is a real-time face recognition and attendance system implemented in Python using OpenCV and the face_recognition library. It allows for automatic recognition of faces captured by a webcam feed and marks attendance for recognized individuals.
 
 
