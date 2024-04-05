@@ -3,6 +3,7 @@ This project is a real-time face recognition and attendance system implemented i
 
 
 **Features:**
+
 (1) Real-Time Face Detection: Utilizes OpenCV to capture video frames from a webcam and detects faces using the face_recognition library.
 (2) Face Recognition: Recognizes faces by comparing them with a set of known faces' encodings. It uses pre-trained models to encode and compare faces.
 (3) Attendance Marking: Automatically marks attendance in a CSV file for recognized faces along with the timestamp of their detection.
