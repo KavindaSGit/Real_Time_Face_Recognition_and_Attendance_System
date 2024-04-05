@@ -25,5 +25,8 @@ This project utilizes the following libraries:
 
 ![Screenshot (173)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/37cd6013-95fe-484b-b2db-ed18cb5a7229)
 
+![image](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/b16902a2-d5b5-4a85-a3ee-657488282744)
+
+
 
 
