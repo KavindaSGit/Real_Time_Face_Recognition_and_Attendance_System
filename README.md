@@ -9,7 +9,7 @@ This project is a real-time face recognition and attendance system implemented i
 (3) Attendance Marking: Automatically marks attendance in a CSV file for recognized faces along with the timestamp of their detection.<br/>
 (4) Simple Interface: Provides a simple graphical interface to display the webcam feed with recognized faces and their corresponding names.<br/>
 
-<br/><br/><br/>
+<br/>
 
 **Acknowledgements:**
 This project utilizes the following libraries:
