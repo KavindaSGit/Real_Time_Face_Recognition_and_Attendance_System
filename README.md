@@ -19,10 +19,11 @@ This project utilizes the following libraries:
 (3) numpy: For numerical operations.<br/>
 <br/><br/>
 
-![Screenshot (169)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/793f874c-4e18-4098-ba6e-4425e2724b1e)
+![Screenshot (169)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/c5b6896b-4b14-4187-a24c-f3ebd3d05dad)
 
-![Screenshot (177)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/4be0f5cc-2b44-422d-9a09-2c75d220ddd2)
+![Screenshot (177)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/4da8d850-4d05-467b-97d1-aa26089a57f8)
 
-![Screenshot (173)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/3591078b-38e4-4f12-8583-7d9416f456cc)
+![Screenshot (173)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/37cd6013-95fe-484b-b2db-ed18cb5a7229)
+
 
 
