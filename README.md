@@ -9,6 +9,7 @@ This project is a real-time face recognition and attendance system implemented i
 (3) Attendance Marking: Automatically marks attendance in a CSV file for recognized faces along with the timestamp of their detection.<br/>
 (4) Simple Interface: Provides a simple graphical interface to display the webcam feed with recognized faces and their corresponding names.<br/>
 
+<br/><br/><br/>
 
 **Acknowledgements:**
 This project utilizes the following libraries:
@@ -16,7 +17,7 @@ This project utilizes the following libraries:
 (1) OpenCV: For image processing and video capture.<br/>
 (2) face_recognition: For face detection and recognition.<br/>
 (3) numpy: For numerical operations.<br/>
-
+<br/><br/>
 
 ![Screenshot (169)](https://github.com/KavindaSGit/Real_Time_Face_Recognition_and_Attendance_System/assets/126879461/793f874c-4e18-4098-ba6e-4425e2724b1e)
 
